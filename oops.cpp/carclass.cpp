@@ -20,7 +20,7 @@ void change (car& c) {
     c.name = "mercedes ";
 }
 int main (){
-    car c1(5,"bmw","suv",300000);
+    car c1(5,"Bmw","suv",300000);
     //c1.name = "bmw";
     ///c1.price = 300000;
     //c1.seats = 4;
